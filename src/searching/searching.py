@@ -22,7 +22,7 @@ def binary_search(arr, target, start, end):
         # Element is not present in the array 
         return -1
 
-
+# NOTE: I should check the order of the array given
 
 
 
